@@ -1,0 +1,11 @@
+{
+    "name": "early-logistic-train-network",
+    "version": "0.0.1",
+    "title": "Early Logistic Train Network",
+    "author": "TheOddler",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.15",
+    "dependencies": ["LogisticTrainNetwork >= 1.4.9"],
+    "description": "Alters the recipe of the Logistic Train Network mod to make it simpler so you can use it sooner. The recipe now uses electronic instead of advanced circuits."
+}
